@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, <br>I'm Pranav Mishra👋<br>Thanks for visiting my GitHub profile.<br>🌱 I’m currently improving my skills in Python, SQL and Data Analyst.<br>💬 Ask me about: I am always ready to help at my best.<br>📫 How to reach me: Email me: pranav2000mishra@gmail.com<br>
+Hi there, <br>I'm Pranav Mishra👋<br>Thanks for visiting my GitHub profile.<br>🌱 I’m currently improving my skills in Python, SQL and Data Analyst.<br>💬 Ask me about: I am always ready to help at my best.<br>
 
 
 ## 🌐 Socials:
