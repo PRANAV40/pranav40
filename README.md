@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi there, <br>I'm Pranav Mishra👋<br>Thanks for visiting my GitHub profile.<br>🌱 I’m currently improving my skills in Python, SQL and Data Analyst.<br>💬 Ask me about: I am always ready to help at my best.<br>
+# Hi there, I'm Pranav Mishra👋
+# A passionate Data Analyst
+Thanks for visiting my GitHub profile.<br>🌱 I’m currently improving my skills in Python, SQL and Data Analyst.<br>💬 Ask me about: I am always ready to help at my best.<br>
 
 # ✅ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
 
