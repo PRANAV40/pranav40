@@ -1,7 +1,7 @@
 # 💫 About Me:
 # Hi there, I'm Pranav Mishra👋
 Thanks for visiting my GitHub profile.<br>🌱 
-💬 Ask me about: I am always ready to help at my best.<br>
+💬 Ask me about Data Analytics and Bsuiness Analytics
 
 # ✅ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
 ✦ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 ✦ 𝐒𝐐𝐋 ✦ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥 ✦ 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐓𝐡𝐢𝐧𝐤𝐢𝐧𝐠 ✦ 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 
