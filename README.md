@@ -1,11 +1,11 @@
 # 💫 About Me:
 # Hi there, I'm Pranav Mishra👋
-# A passionate Data Analyst
+## A passionate Data Analyst
 Thanks for visiting my GitHub profile.<br>🌱 I’m currently improving my skills in Python, SQL and Data Analyst.<br>💬 Ask me about: I am always ready to help at my best.<br>
 
 # ✅ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
-
 ✦ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 ✦ 𝐒𝐐𝐋 ✦ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥 ✦ 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐓𝐡𝐢𝐧𝐤𝐢𝐧𝐠 ✦ 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavm40) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranavM2711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranav2000mishra@gmail.com) 
 
